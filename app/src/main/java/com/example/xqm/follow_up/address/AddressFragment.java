@@ -14,5 +14,4 @@ public class AddressFragment extends Fragment {
 			Bundle savedInstanceState) {
 		return inflater.inflate(R.layout.fragment_address, container, false);
 	}
-
 }
