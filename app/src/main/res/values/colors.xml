@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">	#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="C0">#ffffff</color>
+    <color name="C1">#000000</color>
+    <color name="C2">#647080</color><!--正文色，文字按钮颜色-->
+    <color name="C3">#979da5</color><!--次级正文颜色-->
+    <color name="C4">#d8dee5</color><!--分割线颜色-->
+</resources>
